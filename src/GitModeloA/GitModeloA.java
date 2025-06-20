@@ -9,5 +9,6 @@ public class GitModeloA {
 		System.out.println("cambio desde repostiorio remoto");
 		System.out.println("cambio desde repositorio local");
 		System.out.println("cambio desde repositorio local 2");
+		System.out.println("segundo cambio desde repostiorio remoto");
 	}
 }
